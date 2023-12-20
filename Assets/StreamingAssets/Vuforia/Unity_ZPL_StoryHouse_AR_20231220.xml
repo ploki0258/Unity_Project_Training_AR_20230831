@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="IMG_1375" size="1.000000 0.768683" />
+    <ImageTarget name="IMG_1413_2" size="1.000000 0.561333" />
+    <ImageTarget name="IMG_1424_2" size="1.000000 0.561333" />
+    <ImageTarget name="IMG_1436_2_1" size="1.000000 0.703337" />
+    <ImageTarget name="IMG_1387_2" size="1.000000 0.753303" />
+    <ImageTarget name="IMG_1436_2" size="1.000000 1.156984" />
+    <ImageTarget name="IMG_1480" size="1.000000 0.772477" />
+    <ImageTarget name="IMG_1445" size="1.000000 0.843936" />
+    <ImageTarget name="IMG_1423" size="1.000000 1.214964" />
+    <ImageTarget name="IMG_1409" size="1.000000 0.822466" />
+    <ImageTarget name="IMG_1391" size="1.000000 0.949020" />
+    <ImageTarget name="IMG_1378" size="1.000000 0.760462" />
+    <ImageTarget name="IMG_1460" size="1.000000 1.242744" />
+  </Tracking>
+</QCARConfig>
